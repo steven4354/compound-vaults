@@ -1,4 +1,4 @@
-# compound-vaults project
+# Compound Vaults Project
 
 This project contains initial code and set up for the compound vaults project
 
